@@ -1,15 +1,15 @@
-FEIIDS: Feature Engineering-Based Intrusion Detection System for IoT Security
+## FEIIDS: Feature Engineering-Based Intrusion Detection System for IoT Security
 
 This repository contains Machine Learning (ML) and Deep Learning (DL) implementations for intrusion detection using the UNSW-NB15 dataset. It includes complete workflows for data preprocessing, feature subsetting, regression-based feature engineering, model training, evaluation, and result comparison.
 
-📂 Dataset
+# Dataset
 
 Download the UNSW-NB15 dataset from the link below:
-🔗 https://www.kaggle.com/datasets/sadhwanisapna/unsw-nb15-feiids-test-and-train
+ https://www.kaggle.com/datasets/sadhwanisapna/unsw-nb15-feiids-test-and-train
 
 Contains the original dataset, processed feature-engineered dataset, and train/test splits used in the study.
 
-🧠 Implementations Included
+# Implementations Included
 Machine Learning Models
 
 Decision Tree
@@ -24,7 +24,7 @@ Deep Learning Model
 
 BiLSTM with early stopping
 
-🚀 Workflow
+# Workflow
 
 Load and preprocess dataset (cleaning, encoding, normalization)
 
@@ -46,7 +46,7 @@ F1 Score
 
 Confusion Matrix
 
-🏆 Key Results
+# Key Results
 
 Binary Accuracy: up to 98.80% (RF)
 
